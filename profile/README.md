@@ -1,4 +1,4 @@
-# Cordoba Business Automations (CBA)
+# Catalyst Business Automations (CBA)
 
 ## Transforming Business Through Innovation
 
