@@ -8,7 +8,7 @@
 
 ## 🏢 About CBA
 
-**Cordoba Business Automations (CBA)** is a cutting-edge technology startup based in **Córdoba, Argentina**, dedicated to revolutionizing how modern enterprises operate. We are building the future of business automation with innovative technology solutions that streamline operations, boost efficiency, and drive sustainable growth.
+**Catalyst Business Automations (CBA)** is a cutting-edge technology startup based in **Córdoba, Argentina**, dedicated to revolutionizing how modern enterprises operate. We are building the future of business automation with innovative technology solutions that streamline operations, boost efficiency, and drive sustainable growth.
 
 ### 🎯 Our Mission
 
